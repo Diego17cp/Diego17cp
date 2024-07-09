@@ -26,10 +26,10 @@ I'm a Software Engineering student, my goal is to be a full stack developer. I a
 <a href="https://www.instagram.com/diegxcp/">
   <img alt="Diego Castro Instagram" src="https://skillicons.dev/icons?i=instagram" />
 </a><br>
-<a href="www.linkedin.com/in/diego-castro-pastor">
+<a href="https://www.linkedin.com/in/diego-castro-pastor">
   <img alt="Diego Castro LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
 </a><br>
-<a href="discordapp.com/users/749385031537131560">
+<a href="https://discordapp.com/users/749385031537131560">
   <img alt="Diego Castro Discord" src="https://skillicons.dev/icons?i=discord" />
 </a>
 <!--
