@@ -24,7 +24,13 @@ I'm a Software Engineering student, my goal is to be a full stack developer. I a
 
 ## Contact / Social ✨
 <a href="https://www.instagram.com/diegxcp/">
-  <img src="https://skillicons.dev/icons?i=instagram" />
+  <img alt="Diego Castro Instagram" src="https://skillicons.dev/icons?i=instagram" />
+</a>
+<a href="www.linkedin.com/in/diego-castro-pastor">
+  <img alt="Diego Castro LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="discordapp.com/usuarios/749385031537131560">
+  <img alt="Diego Castro Discord" src="https://skillicons.dev/icons?i=discord" />
 </a>
 <!--
 **Diego17cp/Diego17cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
