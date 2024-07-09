@@ -29,7 +29,7 @@ I'm a Software Engineering student, my goal is to be a full stack developer. I a
 <a href="www.linkedin.com/in/diego-castro-pastor">
   <img alt="Diego Castro LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="discordapp.com/usuarios/749385031537131560">
+<a href="discordapp.com/users/749385031537131560">
   <img alt="Diego Castro Discord" src="https://skillicons.dev/icons?i=discord" />
 </a>
 <!--
