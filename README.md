@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi, I'm Diego 👽
 
+## About me 👾
+I'm a Software Engineering student. 
 <!--
 **Diego17cp/Diego17cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
