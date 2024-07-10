@@ -23,13 +23,13 @@ I'm a Software Engineering student, my goal is to be a full stack developer. I a
 - **[JavaScript Road](https://github.com/Diego17cp/JavaScript-Road):** Un repo para aprender JavaScript mediante ejemplos de código, ejercicios, projectos y más. Únetenos!
 
 ## Contact / Social ✨
-<a href="https://www.instagram.com/diegxcp/">
+<a href="https://www.instagram.com/diegxcp/" target="_blank">
   <img alt="Diego Castro Instagram" src="https://skillicons.dev/icons?i=instagram" />
 </a><br>
-<a href="https://www.linkedin.com/in/diego-castro-pastor">
+<a href="https://www.linkedin.com/in/diego-castro-pastor" target="_blank">
   <img alt="Diego Castro LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
 </a><br>
-<a href="https://discordapp.com/users/749385031537131560">
+<a href="https://discordapp.com/users/749385031537131560" target="_blank">
   <img alt="Diego Castro Discord" src="https://skillicons.dev/icons?i=discord" />
 </a>
 <!--
