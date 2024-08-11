@@ -2,9 +2,6 @@
 
 ## About me 👾
 I'm a Software Engineering student, my goal is to be a full stack developer. I always want to learn more technologies, I like challenges. Currently, I want to learn more about JS, Java and React. Welcome to my profile!
-
-![](https://github-readme-stats.vercel.app/api?username=diego17cp&show_icons=true&theme=tokyonight)
-
 ## Technologies 🧑‍💻
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,17 +18,19 @@ I'm a Software Engineering student, my goal is to be a full stack developer. I a
 
 ## Projects ⚙️
 - **[JavaScript Road](https://github.com/Diego17cp/JavaScript-Road):** Un repo para aprender JavaScript mediante ejemplos de código, ejercicios, projectos y más. Únetenos!
+## Github-Stats 🤖
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego17cp&theme=gotham&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego17cp&theme=gotham&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego17cp&theme=gotham&show_icons=true&hide_border=true&layout=compact">
+</div>
 
-## Contact / Social ✨
-<a href="https://www.instagram.com/diegxcp/" target="_blank">
-  <img alt="Diego Castro Instagram" src="https://skillicons.dev/icons?i=instagram" />
-</a><br>
-<a href="https://www.linkedin.com/in/diego-castro-pastor" target="_blank">
-  <img alt="Diego Castro LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
-</a><br>
-<a href="https://discordapp.com/users/749385031537131560" target="_blank">
-  <img alt="Diego Castro Discord" src="https://skillicons.dev/icons?i=discord" />
-</a>
+---
+<div align="center">
+  Contact me:<br><br>
+  <a href="https://www.linkedin.com/in/diego-castro-pastor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/diegxcp/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
 <!--
 **Diego17cp/Diego17cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
