@@ -7,9 +7,9 @@ I am a software engineering student, currently halfway through my degree. I am e
 - 🌱 I’m currently learning ...
   - PHP
   - Full-Stack
-- I always excited about learning new technologies 🧑‍💻
-- I like the challenges 🔥
-- if you can imagine it, you can program it 🍃
+- 🧑‍💻 I always excited about learning new technologies.
+- 🔥 I like the challenges. 
+- 🍃 If you can imagine it, you can program it. 
 
 ---
 # Technologies 🧑‍💻
