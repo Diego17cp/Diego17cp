@@ -1,69 +1,42 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=900&size=40&duration=2000&pause=1000&color=268F77&center=true&width=700&height=70&lines=Hello%2C+I'm+Diego!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=99D1CE&text=Diego%20Castro&section=header&reversal=false&textBg=false&fontColor=172152FF&fontSize=80&fontAlign=50&fontAlignY=39&animation=fadeIn&desc=Software%20Engineer&descSize=30&descAlignY=57&descAlign=72"/>
-</div>
+<h1 align="center"><b>Hi , I'm Diego Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="right" width=300px alt="Luffy" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif" />
 
-# About me 👾
-- **Software Engieering student 🎓**
-- **Future full stack dev 🎯**
-- **I always excited about learning new web technologies 🧑‍💻**
-- **I like the challenges 🔥**
+<img src="https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif" width="40px">&nbsp;***About me:***
+
+I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+- 🌱 I’m currently learning ...
+  - PHP
+  - Full-Stack
+- I always excited about learning new technologies 🧑‍💻
+- I like the challenges 🔥
+- if you can imagine it, you can program it 🍃
 
 ---
-# Technologies & Tools 🧑‍💻
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
-      <br>VsCode
-    </td>    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=js" width="65" height="65" />
-      <br>JavaScript
-    </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql"width="65" height="65" />
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=redhat" width="65" height="65" />
-      <br>Red Hat
-    </td>
-  </tr>
-</table>
+# Technologies 🧑‍💻
+
+<h3>Languages</h3>
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0088c2?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-008bd5?style=for-the-badge&logo=python&logoColor=yellow">
+</div>
+<h3>Tools</h3>
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-cc0002?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=red&logoSize=auto">
+</div>
 
 ---
 # Projects ⚙️
-- **[JavaScript Road](https://github.com/Diego17cp/JavaScript-Road):** Un repo para aprender JavaScript mediante ejemplos de código, ejercicios, projectos y más. Únetenos!
+- **[JavaScript Road](https://github.com/Diego17cp/JavaScript-Road):** A repository to learn JavaScript through code samples, exercises, projects and much more. Join Us! <img src="https://media.tenor.com/s1PTNnkaSQsAAAAi/js-java-script.gif" width="35px">
+- **[Vet-Project](https://github.com/Diego17cp/Vet-Project):** A CRUD Java repository with [Julian](https://github.com/JulianB0315) and [Petuso](https://github.com/PetusoTwo) for a veterinary to appointments and patients. <img alt="dancing dog" src="https://media.tenor.com/eDYrIXjA6k8AAAAi/cat-dog.gif" width="35px">
 
+- **[NPB](https://github.com/Diego17cp/NPB):** A CRUD Java repository for a bank. A little project for the Institute. <img alt="jumping llama" src="https://media.tenor.com/s14QGGaouQoAAAAi/llama-balloon.gif" width="45px">
 ---
 # Github-Stats 🤖
 <div align="center">
