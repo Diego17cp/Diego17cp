@@ -29,6 +29,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-cc0002?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=red&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-bf41dc?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 ---
