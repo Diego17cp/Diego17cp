@@ -21,6 +21,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0088c2?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-008bd5?style=for-the-badge&logo=python&logoColor=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=%23595d93">
 </div>
 <h3>Tools</h3>
 <div>
