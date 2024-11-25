@@ -39,6 +39,8 @@ I am a software engineering student, currently halfway through my degree. I am e
 - **[Vet-Project](https://github.com/Diego17cp/Vet-Project):** A CRUD Java repository with [Julian](https://github.com/JulianB0315) and [Petuso](https://github.com/PetusoTwo) for a veterinary to appointments and patients. <img alt="dancing dog" src="https://media.tenor.com/eDYrIXjA6k8AAAAi/cat-dog.gif" width="35px">
 
 - **[NPB](https://github.com/Diego17cp/NPB):** A CRUD Java repository for a bank. A little project for the Institute. <img alt="jumping llama" src="https://media.tenor.com/s14QGGaouQoAAAAi/llama-balloon.gif" width="45px">
+- **[Futbolera](https://github.com/JulianB0315/soccer-clothing.io):** A CRUD Web Project for a Soccer clothing shop with [Julian](https://github.com/JulianB0315) and [Petuso](https://github.com/PetusoTwo) <img alt="football penguin" src="https://media.tenor.com/Wg7Jusj68UgAAAAi/scotland-scot.gif" width="35px">
+- **[Tasks Manager](https://github.com/Diego17cp/Tasks-Manager):** A CRUD Web Project that allows control your tasks <img alt="football penguin" src="https://media1.tenor.com/m/Mos3BAm5aTcAAAAd/checklist-task.gif" width="35px">
 ---
 # Github-Stats 🤖
 <div align="center">
