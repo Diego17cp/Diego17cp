@@ -6,6 +6,7 @@
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Improving JS
+  - Libraries
 - 🧑‍💻 I always excited about learning new technologies.
 - 🔥 I like the challenges. 
 - 🍃 If you can imagine it, you can program it. 
@@ -43,9 +44,9 @@ I am a software engineering student, currently halfway through my degree. I am e
 ---
 # Github-Stats 🤖
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diego17cp&theme=gotham&show_icons=true&hide_border=false&count_private=true">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&count_private=true">
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego17cp&theme=gotham&hide_border=true"> -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego17cp&theme=gotham&show_icons=true&hide_border=false&layout=compact">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 # Contributions 👽
