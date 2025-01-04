@@ -6,7 +6,7 @@
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - Improving JS
-  - Libraries
+  - React
 - 🧑‍💻 I always excited about learning new technologies.
 - 🔥 I like the challenges. 
 - 🍃 If you can imagine it, you can program it. 
@@ -31,6 +31,10 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-cc0002?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=red&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-bf41dc?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-01d2f8?style=for-the-badge&logo=react&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VITE-aa47f8?style=for-the-badge&logo=vite&logoColor=f8c623&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-323232?style=for-the-badge&logo=nodedotjs&logoColor=80c829&logoSize=auto">
+
 </div>
 
 ---
