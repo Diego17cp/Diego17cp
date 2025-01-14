@@ -64,6 +64,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <a href="https://www.linkedin.com/in/diego-castro-pastor" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/dialca.dev/" target="_blank"><img height="30px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
+
 <div align="center">
      <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99D1CE&height=100&section=footer"/>
 </div>
