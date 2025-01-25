@@ -21,7 +21,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0088c2?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-008bd5?style=for-the-badge&logo=python&logoColor=yellow">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white&logoSize=auto&color=%23595d93">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23595d93?style=for-the-badge&logo=php&logoColor=white&logoSize=auto">
 </div>
 <h3>Tools</h3>
 <div>
@@ -31,9 +31,13 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/Oracle-cc0002?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Red%20Hat-black?style=for-the-badge&logo=redhat&logoColor=red&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-bf41dc?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-01d2f8?style=for-the-badge&logo=react&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT-skyblue?style=for-the-badge&logo=react&logoColor=black&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/VITE-aa47f8?style=for-the-badge&logo=vite&logoColor=f8c623&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-323232?style=for-the-badge&logo=nodedotjs&logoColor=80c829&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TAILWINDCSS-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=black&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-A?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto">
+  
 
 </div>
 
