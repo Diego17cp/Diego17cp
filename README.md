@@ -36,6 +36,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/NODE%20JS-323232?style=for-the-badge&logo=nodedotjs&logoColor=80c829&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TAILWINDCSS-16b9c6?style=for-the-badge&logo=tailwindcss&logoColor=black&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-A?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white">
   
 
 </div>
