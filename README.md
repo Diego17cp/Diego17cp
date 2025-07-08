@@ -5,7 +5,7 @@
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Playing React + CodeIgniter Projects
+  - React Native - Mobile dev
 - 🧑‍💻 I always excited about learning new technologies.
 - 🔥 I like the challenges. 
 - 🍃 If you can imagine it, you can program it. 
