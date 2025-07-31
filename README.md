@@ -37,6 +37,13 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/TAILWINDCSS-16b9c6?style=for-the-badge&logo=tailwindcss&logoColor=black&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-A?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc">
   <img alt="Static Badge" src="https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%2332658d?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-%2382c9ea?style=for-the-badge&logo=sqlite&logoColor=%2332658d">
+<!--  por corregir esto  -->
+  <div background-color="#fff" width="35px" height="35px">
+    <img alt='Zustand Logo' src='https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg' height="20px" />
+    <span>Zustand</span>
+  </div>
   
 
 </div>
