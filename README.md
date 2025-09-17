@@ -22,6 +22,8 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-008bd5?style=for-the-badge&logo=python&logoColor=yellow">
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23595d93?style=for-the-badge&logo=php&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=auto&color=%237b49cd">
+
 </div>
 <h3>Tools</h3>
 <div>
@@ -37,8 +39,11 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/TAILWINDCSS-16b9c6?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-A?style=for-the-badge&logo=redux&logoColor=white&color=%23764abc">
   <img alt="Static Badge" src="https://img.shields.io/badge/CodeIgniter-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%2332658d?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-%2382c9ea?style=for-the-badge&logo=sqlite&logoColor=%2332658d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%2332658d?style=for-the-badge&logo=postgresql&logoSize=auto&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-%2382c9ea?style=for-the-badge&logo=sqlite&logoSize=auto&logoColor=%2332658d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=%234fa64d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=black">
+
 <!--  por corregir esto  -->
   <div background-color="#fff" width="35px" height="35px">
     <img alt='Zustand Logo' src='https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg' height="20px" />
