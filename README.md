@@ -42,6 +42,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%2332658d?style=for-the-badge&logo=postgresql&logoSize=auto&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-%2382c9ea?style=for-the-badge&logo=sqlite&logoSize=auto&logoColor=%2332658d">
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=%234fa64d">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%238038e2?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=black">
 
 <!--  por corregir esto  -->
