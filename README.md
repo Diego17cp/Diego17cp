@@ -19,7 +19,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-0088c2?style=for-the-badge&logo=css&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-008bd5?style=for-the-badge&logo=python&logoColor=yellow">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23595d93?style=for-the-badge&logo=php&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=auto&color=%237b49cd">
@@ -44,6 +44,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=%234fa64d">
   <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%238038e2?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PRISMA-%2303354d?style=for-the-badge&logo=prisma">
 
 <!--  por corregir esto  -->
   <div background-color="#fff" width="35px" height="35px">
