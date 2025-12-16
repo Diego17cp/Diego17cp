@@ -45,6 +45,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%238038e2?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/PRISMA-%2303354d?style=for-the-badge&logo=prisma">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Tanstack%20Query-e03d36?style=for-the-badge&logo=tanstack&logoColor=f8d34b&logoSize=auto">
 
 <!--  por corregir esto  -->
   <div background-color="#fff" width="35px" height="35px">
