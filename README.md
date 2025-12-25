@@ -5,7 +5,7 @@
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - React Native - Mobile dev
+  - Dart - Flutter
 - 🧑‍💻 I always excited about learning new technologies.
 - 🔥 I like the challenges. 
 - 🍃 If you can imagine it, you can program it. 
@@ -23,6 +23,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/PHP-%23595d93?style=for-the-badge&logo=php&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white&logoSize=auto&color=%237b49cd">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dart-%233fbff8?style=for-the-badge&logo=dart&logoColor=%23035494&logoSize=auto">
 
 </div>
 <h3>Tools</h3>
