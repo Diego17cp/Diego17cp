@@ -3,9 +3,9 @@
 
 <img src="https://media.tenor.com/dutdoOw7PjsAAAAj/happy-cat.gif" width="40px">&nbsp;***About me:***
 
-I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+I am a software engineering. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
-  - Dart - Flutter
+  - Golang
 - 🧑‍💻 I always excited about learning new technologies.
 - 🔥 I like the challenges. 
 - 🍃 If you can imagine it, you can program it. 
@@ -45,9 +45,11 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?style=for-the-badge&logo=mongodb&logoColor=white&logoSize=auto&color=%234fa64d">
   <img alt="Static Badge" src="https://img.shields.io/badge/Astro-%238038e2?style=for-the-badge&logo=astro&logoColor=white&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&logoSize=auto&color=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/PRISMA-%2303354d?style=for-the-badge&logo=prisma">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-%2303354d?style=for-the-badge&logo=prisma">
   <img alt="Static Badge" src="https://img.shields.io/badge/Tanstack%20Query-e03d36?style=for-the-badge&logo=tanstack&logoColor=f8d34b&logoSize=auto">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2352c0f1?style=for-the-badge&logo=flutter&logoColor=%23025597">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify&logoColor=white&logoSize=auto&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-0088c2?style=for-the-badge&logo=docker&logoColor=white">
 
 
 <!--  por corregir esto  -->
@@ -73,14 +75,16 @@ I am a software engineering student, currently halfway through my degree. I am e
 ---
 # Github-Stats 🤖
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&count_private=true">
+  <img src="https://ghstats.dev/api/card?username=Diego17cp&theme=midnight" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=Diego17cp&theme=midnight&max_langs=7&layout=donut_vertical" alt="Top Languages" />
+  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&count_private=true"> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diego17cp&theme=gotham&hide_border=true"> -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&layout=compact">
+  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego17cp&theme=gotham&show_icons=true&hide_border=true&layout=compact"> -->
 </div>
 
 # Contributions 👽
 <div align="center">
-  <img height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego17cp&theme=gotham" />
+  <img height="195px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Diego17cp&theme=algolia&animation=draw" /> 
 </div>
 
 ---
@@ -91,5 +95,5 @@ I am a software engineering student, currently halfway through my degree. I am e
 </div>
 
 <div align="center">
-     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=99D1CE&height=100&section=footer"/>
+     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=100&section=footer"/>
 </div>
